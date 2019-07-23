@@ -14,6 +14,8 @@ what you need to edit a few git commit messages.
     y              yank (=copy)
     c              cut
     p              paste
+    u              undo
+    Ctrl+R         redo
 
 ## Insert mode (i)
 
