@@ -5,10 +5,12 @@ what you need to edit a few git commit messages.
 
 ## Command mode (ESC)
 
+	
     i              go to insert mode
     v              go to visual mode
     (cursor keys)  navigate
-    :wq            save and quit
+    :wq            save and quitreset
+
     :q             quit, if no unsaved changes
     :q!            quit anyway
     y              yank (=copy)
