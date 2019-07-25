@@ -2,4 +2,4 @@ May the 4th be with you!
 
 This is not the VIM you looking for!
 
-The visual mode strong in you is.
+The visual mode in you strong is.
