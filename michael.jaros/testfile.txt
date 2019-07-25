@@ -1,2 +1,3 @@
-Hallo, das ist ein Text!!!
+Hallo
+das ist ein Text
 Ende des Textes
